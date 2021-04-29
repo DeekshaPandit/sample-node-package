@@ -1,0 +1,22 @@
+{
+  "name": "validator-js",
+  "version": "1.0.0",
+  "description": "A NPM package that validates the input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeekshaPandit/sample-node-package.git"
+  },
+  "keywords": [
+    "validate"
+  ],
+  "author": "Deeksha Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeekshaPandit/sample-node-package/issues"
+  },
+  "homepage": "https://github.com/DeekshaPandit/sample-node-package#readme"
+}
